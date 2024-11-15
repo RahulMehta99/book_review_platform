@@ -113,3 +113,17 @@ python manage.py collectstatic
 ---
 
 This command guide should help you set up and run your project seamlessly!
+
+
+Screenshots
+Here are some screenshots showcasing the key parts of the platform:
+
+Homepage: Displays the list of all books available for review.
+ ![image](https://github.com/user-attachments/assets/08e189b2-0f9c-4dd9-8190-f1458060cf76)
+
+Book Detail Page: Shows detailed information about a specific book, along with a form for submitting reviews.
+ ![image](https://github.com/user-attachments/assets/9ed6213b-cb76-4e63-8083-13ba0cd7e30d)
+
+Add New Book: New Books are added.
+ ![image](https://github.com/user-attachments/assets/d3423940-4842-4657-8040-c202d2e32901)
+
